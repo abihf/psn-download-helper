@@ -1,0 +1,17 @@
+{
+  "name": "psn-download-helper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "psn"
+  ],
+  "author": "Abi Hafshin <abi@hafs.in>",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "send": "^0.14.1"
+  }
+}
